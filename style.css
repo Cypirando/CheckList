@@ -1,0 +1,99 @@
+html {
+    background: #ffff;
+    height: 80%;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto h1 {
+    font-size: 55px;
+    text-transform: uppercase;
+    color: #3f67d6;
+    position: absolute;
+    top: 50px;
+}
+
+.linha {
+    margin-bottom: 20px;
+    height: 15px;
+    background: #3f67d6;
+    position: absolute;
+    top: 124px;
+}
+
+.fomr {
+    position: relative;
+    bottom: 27px;
+}
+
+.texto {
+    width: 48.5%;
+}
+
+.grid-item {
+    font-size: 30px;
+}
+
+.item {
+    background: rgb(250, 122, 122);
+    color: #ffff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.item2,
+.item3,
+.item4,
+.item5 {
+    color: #ffff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.item0 {
+    background: #fe0b14;
+}
+
+.item2 {
+    background: #677edc;
+}
+
+.item3 {
+    background: #ffa427;
+}
+
+.item4 {
+    background: #fd7d22;
+}
+
+.item5 {
+    background: #ffc562;
+}
+
+.item6 {
+    background: #dce4f9;
+    color: rgb(4, 2, 29);  
+    text-transform:capitalize;
+}
+
+.item7 {
+    background: #fce4be;
+}
+
+.item8 {
+    background: #f6d3b5;
+}
+
+.item9 {
+    background: #fce4be;
+}
+
+.btnDelet {
+    cursor: pointer;
+
+}
+input{
+    min-width: 20px;
+    min-height: 20px;
+}
